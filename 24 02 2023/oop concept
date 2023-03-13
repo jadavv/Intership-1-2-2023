@@ -1,0 +1,25 @@
+oop concept 
+
+> object oriented program
+
+   @ main principles
+
+
+1)abstraction
+2)encapsulation
+3)Inheritance
+4)polymorphism
+
+
+
+> Inheritence
+    ~> Inheritence is a mechanism in which one class acquires the property of another class
+    ~> when a class derives from another class
+
+@ Inheritence 
+
+   1) single Inheritence  >  Single inheritance enables a derived class  to inherit properties from a single parent class
+  2) multiple Inheritence > derived from more then one base class 
+  3)multilevel Inheritence  > base class and the derived class are further  inherited  into the new derived class
+  4)  hierarchical Inheritence > parent(base) class and two child(derived) classes
+  5) hybrid Inheritence   >Inheritance consisting of multiple type of inheritence  is called hybrid inheritance 
